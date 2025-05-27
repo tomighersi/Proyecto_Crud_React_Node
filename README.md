@@ -1,6 +1,6 @@
 # Practico Integrador
 
-Proyecto realizado como practico integrador de la materia Programacion III en donde se realiza un CRUD utilizado como front(REACT) y backend(NODE)
+Proyecto realizado como practico integrador de la materia Programacion III en donde se realiza un CRUD utilizando como front REACT y como backend Nodejs(express)
 
 # Instalacion y ejecucion del proyecto
 
