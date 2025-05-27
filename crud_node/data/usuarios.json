@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "tomas",
+    "email": "tomigh@gmail.com",
+    "address": "luis renaudi 1943",
+    "age": "23"
+  },
+  {
+    "id": 2,
+    "name": "jorge",
+    "email": "jorgitogamer@gmail.com",
+    "address": "maipu 2732",
+    "age": 56
+  },
+  {
+    "id": 4,
+    "name": "carlos",
+    "email": "carlitos777@gmail.com",
+    "address": "gaudard 1254",
+    "age": 30
+  },
+  {
+    "id": 4,
+    "name": "pablo",
+    "email": "pabloatr@gmail.com",
+    "address": "ituzaingo 356",
+    "age": 60
+  },
+  {
+    "name": "Popeye",
+    "email": "popeye@gmail.com",
+    "address": "Rioja 1256",
+    "age": 80,
+    "id": 5
+  }
+]
